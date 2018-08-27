@@ -22,5 +22,5 @@ function doWhileLoop(array) {
   i = i + 1;
 }
  do { array.unshift();incrementVariable();}
- while (array > 0; array.length > 0);
+ while (array.length > 0;);
 }
