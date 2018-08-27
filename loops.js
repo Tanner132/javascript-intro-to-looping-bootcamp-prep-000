@@ -21,6 +21,6 @@ function doWhileLoop(array) {
   function incrementVariable() {
   i = i + 1;
 }
- do { array.unshift();}
+ do { array.unshift();incrementVariable();}
  while (array > 0);
 }
