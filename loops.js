@@ -20,6 +20,6 @@ function doWhileLoop(array) {
   function incrementVariable() {
   i = i + 1;
 }
- do { array.unshift;}
- while ([array > 0 && incrementVariable()]);
+ do { array.unshift();}
+ while ([array > 0 && incrementVariable());
 }
