@@ -17,7 +17,7 @@ function whileLoop(n) {
 
 
 function doWhileLoop(array) {
-  function incrementVariable() {
+  function incrementVariable() {i=0;
   i = i + 1;
 }
  do { array.unshift();}
